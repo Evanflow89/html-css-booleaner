@@ -68,7 +68,7 @@ table {
 }
 
 
-h3 {
+footer h3 {
     color: #8E806A;
 }
 
@@ -85,4 +85,10 @@ footer .img2 {
     width: 260px;
     background-image: url(../img/graph.jpg);
     background-size: cover;
+}
+
+h4 {
+    padding: 10px;
+    color: white;
+    font-size: 22px;
 }
