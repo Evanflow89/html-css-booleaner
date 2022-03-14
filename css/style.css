@@ -66,3 +66,23 @@ table {
 .col3 {
     width: 60%;
 }
+
+
+h3 {
+    color: #8E806A;
+}
+
+footer .img1 {
+    height: 200px;
+    width: 260px;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+footer .img2 {
+    height: 200px;
+    width: 260px;
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+}
