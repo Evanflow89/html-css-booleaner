@@ -1,0 +1,69 @@
+.head {
+    height: 120px;
+    background-image: url("../img/pattern.png");
+    background-size: 470px;
+    background-color: #2FA4FF;
+    width: 100%;
+    position: relative;
+}
+
+.head img {
+    width: 200px;
+    position: absolute;
+    bottom: 15px;
+    left: 5px;
+}
+
+
+header h1 {
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+
+.author h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 24px;
+    color: #8E806A;
+}
+
+.author a {
+    text-decoration: none;
+    color: #2FA4FF;
+}
+
+.author p {
+    margin-top: 0;
+    color: #8E806A;
+}
+
+.content {
+    font-size: 18px;
+}
+
+ul {
+    padding: 15px;
+}
+
+table {
+    width: 100%;
+  }
+
+  table thead{
+      background-color: #2FA4FF;
+      color: white;
+      text-align: left;
+  }
+
+ .col1 {
+     width: 20%;
+ }
+
+ .col2 {
+    width: 20%;
+}
+
+.col3 {
+    width: 60%;
+}
+
